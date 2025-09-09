@@ -600,6 +600,9 @@ study area.
     estimation, Getis--Ord Gi*, hotspot classification, etc. The package 
     attempts to provide sensible default values to assist with analysis
     and mapping for students and non-experts.
+-   The `r pkg("sfcentral")` package can be used for computing centrographic and
+    disperssion statistics (central points, standard distance, standard deviation
+    ellipse, standard deviation box) for observations taken at point locations.
 
 ### Geostatistics
 
